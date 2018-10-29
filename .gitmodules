@@ -1,0 +1,4 @@
+[submodule "src/lib"]
+	path = src/lib
+	url = https://github.com/malys/keypirinha-rest-lib.git
+	branch = master
